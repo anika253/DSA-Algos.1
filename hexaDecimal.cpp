@@ -34,3 +34,22 @@ int main() {
 
     return 0;
 }
+//unsigned int is used to handle negative numbers correctly by treating them as large positive values in hexadecimal representation.
+// This ensures that the hexadecimal conversion works as expected for both positive and negative integers.
+// The main function tests the toHex method with various integer inputs, including edge cases like 0 and negative numbers
+/*
+
+int x=-1;
+unsigned int y= x;
+cout << x<<endl; //-1
+cout << y<< endl;//2s complement representation of -1
+
+
+
+
+
+
+
+
+
+*/
