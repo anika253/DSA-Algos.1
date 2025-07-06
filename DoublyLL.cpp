@@ -97,20 +97,8 @@ void deleteN(Node*&head, int pos)
             curr->next=NULL;
             curr->prev=NULL;
             delete curr;
-            return;
-            
-            
-            
-            
-            
-            
-        }
-        
-        
-    
+            return;}
 }
-
-
 void print(Node*&head)
 {
    Node*curr = head;
