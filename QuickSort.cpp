@@ -60,3 +60,21 @@ Partition the array into two halves:
 
 
 */
+/*
+
+     TIME AND SPACE COMPLEXITIES:
+     TC:0(n log n) on average, O(n^2) in the worst case (when the smallest or largest element is always chosen as the pivot)
+     SC:O(log n) for the recursive stack space in the average case, O(n) in the worst case due to stack space.
+
+*/
+
+
+
+
+
+
+
+
+
+
+
