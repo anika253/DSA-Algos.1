@@ -13,7 +13,7 @@ This repository is a personal collection of important Data Structures and Algori
 - 🛠️ Build reusable C++ templates
 
 
-- Language: **C++17**
+- Language: **C++17/C++14**
 - IDE: VS Code / CodeBlocks
 - Compiler: `g++` / `clang++`
 - Version Control: `git`, GitHub
