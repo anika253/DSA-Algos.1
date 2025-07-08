@@ -2,7 +2,7 @@
 
 ## 🚀 Data Structures and Algorithms in C++
 
-This repository is a personal collection of important Data Structures and Algorithms implemented in **C++**. It includes solutions to common coding interview problems and topics frequently asked in online coding platforms like **LeetCode**, **Codeforces**, **GFG**, and **InterviewBit**.
+This repository is a personal collection of important Data Structures and Algorithms implemented in **C++**. It includes solutions to common coding interview problems and topics frequently asked in online coding platforms.
 
 
 ## 📌 Purpose
