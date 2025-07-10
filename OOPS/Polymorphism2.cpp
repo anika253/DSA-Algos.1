@@ -39,10 +39,33 @@ Some operators cannot be overloaded, like:
 sizeof, typeid
 
 
+Common Operators You Can Overload
+Operator	Symbol	Common Use
+Arithmetic	+, -, *, /, %	Vector math, big integers
+Assignment	=	Deep copy of objects
+Comparison	==, !=, <, >, <=, >=	Sorting, searching
+Stream	<<, >>	Printing (cout), input
+Subscript	[]	Custom container indexing
+Function call	()	Functor objects
+Dereference	*, ->	Smart pointers
+Increment/Decrement	++, --	Iterators
+Logical	!, &&, `
 
 
+Real-life Use Cases
+std::string overloads + for concatenation
 
+std::vector overloads [] for indexing
 
+std::cout overloads <<
+
+ Why Use It?
+Makes your classes behave more like built-in types
+
+Improves readability
+
+Simplifies code using custom objects
+// Allows intuitive operations like addition, comparison, etc.
 
 
 
