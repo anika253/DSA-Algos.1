@@ -16,7 +16,7 @@ class TreeNode{
  }
     
 };
-vector<int>rightSideView(TreeNode*root)
+vector<intleftSideView(TreeNode*root)
 {
     queue<TreeNode*>q;
     vector<int>ans;
@@ -53,7 +53,7 @@ root->left = new TreeNode(2);
 root->right = new TreeNode(3);
 root->left ->right = new TreeNode(5);
 root->right->right = new TreeNode(4);
-vector<int>finaly = rightSideView(root);
+vector<int>finaly = leftSideView(root);
 for( int i = 0 ; i<finaly.size(); i++)
 {
     cout << finaly[i]<< endl;
