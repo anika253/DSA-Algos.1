@@ -1,6 +1,6 @@
 # DSA-Algos.1
 
-## 🚀 Data Structures and Algorithms in C++
+## 🚀 Data Structures and Algorithms in C++........
 
 This repository is a personal collection of important Data Structures and Algorithms implemented in **C++**. It includes solutions to common coding interview problems and topics frequently asked in online coding platforms.
 
