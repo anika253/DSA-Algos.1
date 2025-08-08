@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-int target; // the current x we are checking
+int target; 
 
 // DFS returns the size of the current partial subtree after extracting
 // any full components of size >= target.
@@ -62,3 +62,4 @@ int main() {
     }
     return 0;
 }
+
