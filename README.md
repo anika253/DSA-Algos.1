@@ -18,3 +18,19 @@ This repository is a personal collection of important Data Structures and Algori
 - IDE: VS Code / CodeBlocks
 - Compiler: `g++` / `clang++`
 - Version Control: `git`, GitHub
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
+<!---LeetCode Topics End-->
