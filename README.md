@@ -24,10 +24,12 @@ This repository is a personal collection of important Data Structures and Algori
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
