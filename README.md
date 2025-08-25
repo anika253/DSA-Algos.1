@@ -39,10 +39,12 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -51,4 +53,5 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
