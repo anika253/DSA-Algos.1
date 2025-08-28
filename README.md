@@ -37,6 +37,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
@@ -102,6 +103,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Math
 |  |
@@ -123,4 +125,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
