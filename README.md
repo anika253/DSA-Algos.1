@@ -113,6 +113,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/anika253/DSA-Algos.1/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Sorting
 |  |
 | ------- |
