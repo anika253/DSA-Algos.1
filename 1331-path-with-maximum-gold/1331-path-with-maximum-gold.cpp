@@ -2,36 +2,36 @@ class Solution {
 public:
     vector<int> roww = {1, -1, 0, 0};
     vector<int> coll = {0, 0, -1, 1};
-    int maxGold = 0;
+    int dfs( int i , int j ,vector<vector<int>>& grid, int m , int n)
+    {
+   if(i<0 || j<0 || i>= m || j>= n || grid[i][j]==0)return 0;
+   int curr= grid[i][j];
+   grid[i][j]=0;
+   int localG = curr;
+   for( int xx =0 ; xx<4 ; xx++)
+   {
+    int newR = i+roww[xx];
+    int newC= j+coll[xx];
+    localG = max(localG, curr+dfs(newR, newC, grid , m, n));
+   }
+    grid[i][j]=curr;
+    return localG;
 
-    int dfs(vector<vector<int>>& grid, int x, int y, int n, int m) {
-        if (x < 0 || x >= n || y < 0 || y >= m || grid[x][y] == 0) return 0;
-        
-        int curr = grid[x][y];
-        grid[x][y] = 0;
-        int localMaxGold = curr;
-
-        for (int i = 0; i < 4; i++) {
-            int newX = x + roww[i];
-            int newY = y + coll[i];
-            localMaxGold = max(localMaxGold, curr + dfs(grid, newX, newY, n, m));
-        }
-
-        grid[x][y] = curr;
-        return localMaxGold;
     }
-
     int getMaximumGold(vector<vector<int>>& grid) {
-        int n = grid.size(), m = grid[0].size();
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] != 0) {
-                    maxGold = max(maxGold, dfs(grid, i, j, n, m));
+        int m = grid.size();
+        int n = grid[0].size();
+        int maxG=0;
+        for( int i = 0 ; i<m ; i++)
+        {
+            for( int j =0 ; j<n ; j++)
+            {
+                if(grid[i][j]!=0)
+                {
+                  maxG = max(maxG, dfs(i , j , grid, m,n));
                 }
             }
         }
-
-        return maxGold;
+       return maxG;
     }
 };
