@@ -24,6 +24,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/0046-permutations) |
@@ -107,6 +108,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Math
@@ -125,6 +127,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
 ## Binary Search
 |  |
