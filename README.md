@@ -45,6 +45,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0046-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
@@ -97,6 +98,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
@@ -139,6 +141,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Counting
