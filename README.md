@@ -66,6 +66,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
@@ -77,6 +78,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
@@ -86,12 +88,14 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
