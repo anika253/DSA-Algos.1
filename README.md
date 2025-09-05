@@ -36,6 +36,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
+| [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/anika253/DSA-Algos.1/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anika253/DSA-Algos.1/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -88,6 +89,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
+| [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/anika253/DSA-Algos.1/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Breadth-First Search
 |  |
@@ -97,6 +99,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
