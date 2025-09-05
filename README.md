@@ -29,6 +29,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0039-combination-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
@@ -113,6 +114,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
@@ -177,4 +179,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
