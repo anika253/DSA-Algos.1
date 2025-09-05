@@ -39,6 +39,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
 | [1646-kth-missing-positive-number](https://github.com/anika253/DSA-Algos.1/tree/master/1646-kth-missing-positive-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/anika253/DSA-Algos.1/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anika253/DSA-Algos.1/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -191,4 +192,9 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
+| [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
