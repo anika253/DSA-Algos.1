@@ -127,6 +127,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
+| [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bitmask
@@ -147,6 +148,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/anika253/DSA-Algos.1/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -200,4 +202,12 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
