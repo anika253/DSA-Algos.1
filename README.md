@@ -72,6 +72,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
@@ -86,6 +87,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
@@ -109,6 +111,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
@@ -210,4 +213,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
