@@ -130,6 +130,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
@@ -157,6 +158,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anika253/DSA-Algos.1/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -223,6 +225,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 ## Binary Search Tree
 |  |
