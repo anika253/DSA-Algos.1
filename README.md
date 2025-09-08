@@ -33,6 +33,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -145,6 +146,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anika253/DSA-Algos.1/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
@@ -162,6 +164,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Combinatorics
@@ -191,6 +194,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
 ## Geometry
 |  |
@@ -226,4 +230,5 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anika253/DSA-Algos.1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
