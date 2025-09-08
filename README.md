@@ -147,6 +147,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anika253/DSA-Algos.1/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
@@ -236,8 +237,10 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
