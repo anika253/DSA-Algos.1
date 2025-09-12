@@ -145,6 +145,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anika253/DSA-Algos.1/tree/master/0037-sudoku-solver) |
@@ -194,6 +195,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
@@ -251,4 +253,8 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
