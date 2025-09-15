@@ -156,6 +156,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/anika253/DSA-Algos.1/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -201,6 +202,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/anika253/DSA-Algos.1/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
