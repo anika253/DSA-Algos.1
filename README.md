@@ -52,6 +52,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -166,6 +167,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +195,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anika253/DSA-Algos.1/tree/master/0037-sudoku-solver) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
+| [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +215,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/2887-sort-vowels-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -279,6 +283,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
