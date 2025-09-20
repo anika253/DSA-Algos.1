@@ -53,6 +53,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +169,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +205,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/anika253/DSA-Algos.1/tree/master/1646-kth-missing-positive-number) |
+| [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -284,10 +287,12 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -300,4 +305,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
