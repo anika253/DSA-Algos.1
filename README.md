@@ -39,6 +39,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0216-combination-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anika253/DSA-Algos.1/tree/master/0238-product-of-array-except-self) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
+| [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
@@ -182,6 +183,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anika253/DSA-Algos.1/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -238,6 +240,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Enumeration
 |  |
