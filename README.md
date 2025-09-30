@@ -50,6 +50,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/anika253/DSA-Algos.1/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anika253/DSA-Algos.1/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -186,6 +187,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anika253/DSA-Algos.1/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/anika253/DSA-Algos.1/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -200,6 +202,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Matrix
 |  |
@@ -331,4 +334,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
