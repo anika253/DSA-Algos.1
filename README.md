@@ -25,6 +25,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anika253/DSA-Algos.1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/anika253/DSA-Algos.1/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anika253/DSA-Algos.1/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0039-combination-sum) |
@@ -256,6 +257,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anika253/DSA-Algos.1/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -296,6 +298,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anika253/DSA-Algos.1/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anika253/DSA-Algos.1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
