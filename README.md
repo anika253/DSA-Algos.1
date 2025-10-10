@@ -63,6 +63,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anika253/DSA-Algos.1/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anika253/DSA-Algos.1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anika253/DSA-Algos.1/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
@@ -335,6 +336,7 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anika253/DSA-Algos.1/tree/master/0238-product-of-array-except-self) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anika253/DSA-Algos.1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anika253/DSA-Algos.1/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Design
 |  |
