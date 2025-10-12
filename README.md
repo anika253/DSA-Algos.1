@@ -393,6 +393,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/anika253/DSA-Algos.1/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/anika253/DSA-Algos.1/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/anika253/DSA-Algos.1/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/anika253/DSA-Algos.1/tree/master/0183-customers-who-never-order) |
