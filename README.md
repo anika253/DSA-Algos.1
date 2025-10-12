@@ -397,6 +397,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0181-employees-earning-more-than-their-managers](https://github.com/anika253/DSA-Algos.1/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/anika253/DSA-Algos.1/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/anika253/DSA-Algos.1/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/anika253/DSA-Algos.1/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anika253/DSA-Algos.1/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0627-swap-salary](https://github.com/anika253/DSA-Algos.1/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/anika253/DSA-Algos.1/tree/master/1179-game-play-analysis-i) |
