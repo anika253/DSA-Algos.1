@@ -393,4 +393,5 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0180-consecutive-numbers) |
+| [1179-game-play-analysis-i](https://github.com/anika253/DSA-Algos.1/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
