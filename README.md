@@ -389,4 +389,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
