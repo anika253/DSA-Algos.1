@@ -404,6 +404,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1179-game-play-analysis-i](https://github.com/anika253/DSA-Algos.1/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1182-game-play-analysis-iv) |
 | [1811-fix-names-in-a-table](https://github.com/anika253/DSA-Algos.1/tree/master/1811-fix-names-in-a-table) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/anika253/DSA-Algos.1/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/anika253/DSA-Algos.1/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anika253/DSA-Algos.1/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
