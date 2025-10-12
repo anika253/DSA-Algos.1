@@ -403,6 +403,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0627-swap-salary](https://github.com/anika253/DSA-Algos.1/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/anika253/DSA-Algos.1/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1182-game-play-analysis-iv) |
+| [1811-fix-names-in-a-table](https://github.com/anika253/DSA-Algos.1/tree/master/1811-fix-names-in-a-table) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/anika253/DSA-Algos.1/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anika253/DSA-Algos.1/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
