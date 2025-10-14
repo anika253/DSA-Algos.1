@@ -38,6 +38,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anika253/DSA-Algos.1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anika253/DSA-Algos.1/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
@@ -117,6 +118,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
@@ -132,6 +134,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
@@ -235,6 +238,7 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anika253/DSA-Algos.1/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
@@ -392,6 +396,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 ## Database
 |  |
