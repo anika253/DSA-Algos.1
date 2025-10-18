@@ -31,6 +31,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0039-combination-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/anika253/DSA-Algos.1/tree/master/0079-word-search) |
@@ -170,6 +171,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anika253/DSA-Algos.1/tree/master/0072-edit-distance) |
@@ -306,6 +308,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anika253/DSA-Algos.1/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
