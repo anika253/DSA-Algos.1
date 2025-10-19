@@ -131,6 +131,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -148,6 +149,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -398,6 +400,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/anika253/DSA-Algos.1/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -421,6 +424,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 ## Database
 |  |
