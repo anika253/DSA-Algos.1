@@ -10,7 +10,7 @@ public:
         }
         if(sum%2!=0) return false;
 
-        int target = sum;
+        int target = sum/2;
         vector<vector<int>>dp(n, vector<int>(target+1, 0));
         for( int i = 0 ; i<n ; i++)
         {
