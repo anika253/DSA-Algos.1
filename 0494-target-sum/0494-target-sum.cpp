@@ -19,7 +19,7 @@ int solve(vector<int>& nums, int target,   vector<vector<int>>&dp, int ind, int 
     int findTargetSumWays(vector<int>& nums, int target) {
     S = accumulate(begin(nums), end(nums), 0);
     int n = nums.size();
-        vector<vector<int>>dp( n, vector<int>(2*S, -1));
+        vector<vector<int>>dp( n, vector<int>(2*S+1, -1));
         return solve( nums , target , dp , 0 , 0);
 
     }
