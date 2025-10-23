@@ -223,6 +223,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anika253/DSA-Algos.1/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/anika253/DSA-Algos.1/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/anika253/DSA-Algos.1/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
@@ -306,6 +307,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/anika253/DSA-Algos.1/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anika253/DSA-Algos.1/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/anika253/DSA-Algos.1/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
@@ -397,6 +399,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0076-minimum-window-substring) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anika253/DSA-Algos.1/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
