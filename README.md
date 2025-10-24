@@ -105,6 +105,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anika253/DSA-Algos.1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
@@ -244,6 +245,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anika253/DSA-Algos.1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -257,6 +259,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anika253/DSA-Algos.1/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/anika253/DSA-Algos.1/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anika253/DSA-Algos.1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -333,6 +336,7 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anika253/DSA-Algos.1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Geometry
 |  |
@@ -342,6 +346,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Enumeration
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anika253/DSA-Algos.1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Greedy
 |  |
