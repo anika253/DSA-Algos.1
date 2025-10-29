@@ -11,20 +11,20 @@
  */
 class Solution {
 public:
-int diam = 0;
-int depth(TreeNode*root)
+int solve(TreeNode*root , int &diam)
 {
-    if(!root) return 0;
-    int left = depth(root->left);
-    int right = depth(root->right);
-    diam = max(diam , left+right);
-    return max(left, right)+1;
-
-
+    if(root==NULL)return 0;
+    int l = solve(root->left, diam);
+    int r = solve( root->right , diam);
+    diam = max(diam, l+r);
+    return max(l, r)+1;
+    
 }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(!root)return 0;
-       depth(root);
-       return diam;
+        if(!root) return 0;
+        int diam = 0;
+        solve(root, diam);
+        return diam;
+
     }
 };
