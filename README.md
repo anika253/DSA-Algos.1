@@ -128,6 +128,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -145,6 +146,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0133-clone-graph](https://github.com/anika253/DSA-Algos.1/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
@@ -182,6 +184,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
