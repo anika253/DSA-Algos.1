@@ -36,6 +36,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anika253/DSA-Algos.1/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/anika253/DSA-Algos.1/tree/master/0120-triangle) |
@@ -96,6 +97,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0039-combination-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anika253/DSA-Algos.1/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
@@ -112,6 +114,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
 | [0526-beautiful-arrangement](https://github.com/anika253/DSA-Algos.1/tree/master/0526-beautiful-arrangement) |
