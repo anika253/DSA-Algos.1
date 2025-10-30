@@ -27,7 +27,7 @@ void solve(int n , string s ,vector<vector<string>>&final, vector<string>&ans , 
     }
     for( int i = ind ; i<n ; i++)
     {
-        string temp = s.substr(i , i-ind+1);
+        string temp = s.substr(ind , i-ind+1);
         if(isPalindrome(temp))
         {
             ans.push_back(temp);
