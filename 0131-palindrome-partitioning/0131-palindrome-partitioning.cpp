@@ -1,49 +1,49 @@
 class Solution {
 public:
-int n;
-bool isPalindrome(string temp)
-{  if(temp.empty())return false;
-
-    int i = 0;
-    int j = temp.size()-1;
-    while(i<=j)
+bool isPalindrome( string &x)
+{
+   if(x.empty()) return true;
+   int i = 0;
+   int j = x.size()-1;
+   while(i<=j)
+   {
+    if(x[i]!= x[j])
     {
-        if(temp[i]!=temp[j])return false;
-        i++;
-        j--;
+        return false;
     }
-    return true;
+    i++;
+    j--;
+   }
+   return true;
+
+    
 }
-void solve( string s, vector<vector<string>>&final, vector<string>&ans, string temp, int ind  )
+void solve(int n , string s ,vector<vector<string>>&final, vector<string>&ans , int ind)
 {
     if(ind==n)
     {
         final.push_back(ans);
-        return;
+        return ;
     }
     for( int i = ind ; i<n ; i++)
     {
-        temp = s.substr( ind ,i-ind+1);
+        string temp = s.substr(i , i-ind+1);
         if(isPalindrome(temp))
         {
             ans.push_back(temp);
-            solve(s, final , ans, temp, ind+(i-ind+1));
-            ans.pop_back();
+            solve( n , s, final , ans, ind+(i-ind+1));
+           ans.pop_back();
+
         }
-
     
-
-
     }
-
-
-}    vector<vector<string>> partition(string s) {
-       n= s.size();
+}
+    vector<vector<string>> partition(string s) {
+        int n= s.size();
         vector<vector<string>>final;
         vector<string>ans;
-        string temp ="";
-        int ind=0;
-        solve( s, final , ans, temp , ind);
+        int ind = 0;
+        solve( n , s , final ,ans,  ind);
         return final;
     }
 };
