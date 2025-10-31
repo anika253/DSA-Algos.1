@@ -140,6 +140,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -162,6 +163,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0337-house-robber-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
@@ -202,6 +204,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -410,6 +413,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0098-validate-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0538-convert-bst-to-greater-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
