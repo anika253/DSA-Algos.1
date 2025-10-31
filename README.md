@@ -133,6 +133,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
@@ -152,6 +153,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/anika253/DSA-Algos.1/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
@@ -193,6 +195,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0104-maximum-depth-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
@@ -417,6 +420,7 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anika253/DSA-Algos.1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
@@ -465,6 +469,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Graph
 |  |
