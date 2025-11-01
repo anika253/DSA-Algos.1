@@ -12,52 +12,32 @@
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-        
-        vector<int>final;
-        if(root==NULL)
+      vector<int>final;
+      if( root==NULL) return final;
+      queue<TreeNode*>q;
+      q.push(root);
+      while(!q.empty())
+      {
+        int n = q.size();
+       for ( int i = 0 ; i<n;i++)
         {
-            return final;
+                 auto topo = q.front();
+                 q.pop();
+            if(i==n-1)
+            {
+                final.push_back(topo->val);
+            }
+            if(topo->left)
+            {
+                q.push( topo->left);
+            }
+            if(topo->right)
+            {
+                q.push(topo->right);
+            }
         }
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty())
-        {
-        int n= q.size();
-        for( int i = 0; i<n ; i++)
-        {
-          auto topo = q.front();
-          q.pop();
-          if(i==n-1)
-          {
-            final.push_back(topo->val);
-          }
-           
-           if(topo->left)
-           {
-            q.push( topo->left);
-           }
-           if(topo->right)
-           {
-            q.push(topo->right);
-           }
+      }
+      return final;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-        }
-        }
-        return final;
-        
-        
     }
 };
