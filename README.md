@@ -81,6 +81,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anika253/DSA-Algos.1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika253/DSA-Algos.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anika253/DSA-Algos.1/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -276,6 +277,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika253/DSA-Algos.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
@@ -428,6 +430,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
