@@ -73,6 +73,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2169-simple-bank-system](https://github.com/anika253/DSA-Algos.1/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/anika253/DSA-Algos.1/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -335,6 +336,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -509,6 +511,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anika253/DSA-Algos.1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/anika253/DSA-Algos.1/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anika253/DSA-Algos.1/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Monotonic Stack
