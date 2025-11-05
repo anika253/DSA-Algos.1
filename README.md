@@ -168,6 +168,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0133-clone-graph](https://github.com/anika253/DSA-Algos.1/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
@@ -191,6 +192,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0133-clone-graph](https://github.com/anika253/DSA-Algos.1/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
@@ -510,6 +512,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/anika253/DSA-Algos.1/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -578,4 +581,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
