@@ -420,6 +420,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -446,6 +447,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anika253/DSA-Algos.1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
@@ -455,6 +457,7 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anika253/DSA-Algos.1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
@@ -585,4 +588,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
