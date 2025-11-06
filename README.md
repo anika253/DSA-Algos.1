@@ -101,6 +101,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anika253/DSA-Algos.1/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +188,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/anika253/DSA-Algos.1/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/anika253/DSA-Algos.1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +209,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/anika253/DSA-Algos.1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,6 +308,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika253/DSA-Algos.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -434,6 +438,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
+| [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Recursion
 |  |
 | ------- |
@@ -514,6 +519,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -527,6 +533,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -556,6 +563,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Database
 |  |
 | ------- |
