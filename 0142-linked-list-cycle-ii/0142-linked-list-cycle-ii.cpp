@@ -19,7 +19,7 @@ while(fast!= NULL && fast->next!= NULL)
     if(slow==fast) return slow;
 }
 
-return slow;
+return NULL;
 
 }
     ListNode *detectCycle(ListNode *head) {
