@@ -36,7 +36,8 @@ return slow;
         {
             return slow;
         }
-        return NULL;
         
+        return NULL;
+
     }
 };
