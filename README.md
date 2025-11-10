@@ -101,6 +101,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anika253/DSA-Algos.1/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
@@ -312,6 +313,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika253/DSA-Algos.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
@@ -431,6 +433,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -530,6 +533,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 |  |
 | ------- |
@@ -560,6 +564,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
 |  |
 | ------- |
