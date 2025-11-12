@@ -85,6 +85,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/anika253/DSA-Algos.1/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anika253/DSA-Algos.1/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -327,6 +328,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2174-next-greater-numerically-balanced-number](https://github.com/anika253/DSA-Algos.1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/anika253/DSA-Algos.1/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/anika253/DSA-Algos.1/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika253/DSA-Algos.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -619,4 +621,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/anika253/DSA-Algos.1/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
