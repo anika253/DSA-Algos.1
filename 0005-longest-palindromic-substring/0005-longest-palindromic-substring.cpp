@@ -1,6 +1,6 @@
 class Solution {
 public:
-bool isPalind( int i , int j , string s , vector<vector<int>>&dp)
+bool isPalind( int i , int j , string &s , vector<vector<int>>&dp)
 {
 if(i>=j)
 {
