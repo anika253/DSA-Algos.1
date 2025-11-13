@@ -21,7 +21,7 @@ return dp[i][j]= false;
 
     string longestPalindrome(string s) {
 int n= s.size();
-int len = 0;
+int len = INT_MIN;
 int startI =-1;
 vector<vector<int>>dp(n , vector<int>( n , -1));
 for( int i =0 ; i<n; i++)
