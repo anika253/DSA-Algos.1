@@ -399,6 +399,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/anika253/DSA-Algos.1/tree/master/0800-letter-case-permutation) |
+| [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anika253/DSA-Algos.1/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -435,6 +436,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0045-jump-game-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
+| [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
