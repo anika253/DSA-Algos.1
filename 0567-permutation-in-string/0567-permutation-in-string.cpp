@@ -15,6 +15,7 @@ public:
            }
         }
         return false;
-        
+
     }
 };
+//using sw instead of factorials bcx of n! extra tc
