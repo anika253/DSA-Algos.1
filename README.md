@@ -35,6 +35,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0056-merge-intervals) |
@@ -289,6 +290,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anika253/DSA-Algos.1/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/anika253/DSA-Algos.1/tree/master/0127-word-ladder) |
@@ -343,6 +345,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anika253/DSA-Algos.1/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anika253/DSA-Algos.1/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
@@ -393,6 +396,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anika253/DSA-Algos.1/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anika253/DSA-Algos.1/tree/master/0079-word-search) |
