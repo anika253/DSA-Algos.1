@@ -68,6 +68,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
 | [0911-profitable-schemes](https://github.com/anika253/DSA-Algos.1/tree/master/0911-profitable-schemes) |
+| [1036-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -214,6 +215,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/anika253/DSA-Algos.1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -372,6 +374,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
+| [1036-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
