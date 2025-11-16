@@ -400,6 +400,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
+| [0443-string-compression](https://github.com/anika253/DSA-Algos.1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/anika253/DSA-Algos.1/tree/master/0800-letter-case-permutation) |
 | [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
@@ -508,6 +509,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/anika253/DSA-Algos.1/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/anika253/DSA-Algos.1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
