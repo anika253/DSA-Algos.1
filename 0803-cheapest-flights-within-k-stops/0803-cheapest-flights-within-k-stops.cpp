@@ -14,7 +14,7 @@ public:
       }
       queue<pair<int , pair<int , int>>>q;
       vector<int>dist( n , 1e9);
-      dist[0]=0;
+      dist[src]=0;
       q.push({0, {src , 0}});
       while(!q.empty())
       {
