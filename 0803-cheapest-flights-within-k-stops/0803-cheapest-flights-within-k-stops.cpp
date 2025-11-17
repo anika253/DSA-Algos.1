@@ -31,7 +31,7 @@ public:
             if(ndist+disty < dist[nn] && steps<=k)
             {
                dist[nn]= ndist+disty;
-               q.push({steps+1, {nn ,ndist}});
+               q.push({steps+1, {nn ,dist[nn]}});
             }
         }
       }
