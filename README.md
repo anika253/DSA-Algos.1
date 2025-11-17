@@ -191,6 +191,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/anika253/DSA-Algos.1/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
 | [1035-cousins-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/1035-cousins-in-binary-tree) |
@@ -213,6 +214,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/anika253/DSA-Algos.1/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/1035-cousins-in-binary-tree) |
@@ -567,6 +569,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/anika253/DSA-Algos.1/tree/master/0820-find-eventual-safe-states) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
@@ -641,6 +644,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/anika253/DSA-Algos.1/tree/master/0820-find-eventual-safe-states) |
 ## Merge Sort
 |  |
 | ------- |
