@@ -43,6 +43,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0075-sort-colors](https://github.com/anika253/DSA-Algos.1/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anika253/DSA-Algos.1/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anika253/DSA-Algos.1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/anika253/DSA-Algos.1/tree/master/0120-triangle) |
@@ -560,6 +561,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anika253/DSA-Algos.1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -594,6 +596,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anika253/DSA-Algos.1/tree/master/0084-largest-rectangle-in-histogram) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
 |  |
