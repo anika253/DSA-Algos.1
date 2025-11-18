@@ -25,7 +25,7 @@ return noofb>=m;
         int low = INT_MAX;
         int high = INT_MIN;
         if(
-            (long long)m*k >= bloomDay.size()) return -1;
+            (long long)m*k > bloomDay.size()) return -1;
         
         for( int i =0 ; i<n ;i++)
         {
