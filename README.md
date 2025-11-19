@@ -89,6 +89,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anika253/DSA-Algos.1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/anika253/DSA-Algos.1/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/anika253/DSA-Algos.1/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/anika253/DSA-Algos.1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -322,6 +323,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/anika253/DSA-Algos.1/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/anika253/DSA-Algos.1/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/anika253/DSA-Algos.1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/anika253/DSA-Algos.1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -360,6 +362,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/anika253/DSA-Algos.1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2887-sort-vowels-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/2887-sort-vowels-in-a-string) |
@@ -592,6 +595,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1642-water-bottles](https://github.com/anika253/DSA-Algos.1/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anika253/DSA-Algos.1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/anika253/DSA-Algos.1/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/anika253/DSA-Algos.1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3616-make-array-elements-equal-to-zero) |
