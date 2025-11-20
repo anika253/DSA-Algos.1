@@ -12,7 +12,7 @@ public:
         int r = 0;
         int cnt=0;
         int startI = -1;
-        int len = 0;
+        int len = INT_MAX;
         while(r<m)
         {
             if(hash[s[r]]>0)
@@ -22,10 +22,10 @@ public:
             hash[s[r]]--;
            while(cnt==n)
            {
-       
+          if(r-l+1 <len){
             startI =l;
             len = max(len, r-l+1);
-          
+          }
             hash[s[l]]++;
             if(hash[s[l]]>0)
             {
