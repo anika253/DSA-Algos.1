@@ -24,7 +24,7 @@ public:
            {
           if(r-l+1 <len){
             startI =l;
-            len = max(len, r-l+1);
+            len =r-l+1;
           }
             hash[s[l]]++;
             if(hash[s[l]]>0)
