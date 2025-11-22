@@ -147,6 +147,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0526-beautiful-arrangement](https://github.com/anika253/DSA-Algos.1/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/anika253/DSA-Algos.1/tree/master/0800-letter-case-permutation) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anika253/DSA-Algos.1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/anika253/DSA-Algos.1/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -324,6 +325,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/anika253/DSA-Algos.1/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/anika253/DSA-Algos.1/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -433,6 +435,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anika253/DSA-Algos.1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/2887-sort-vowels-in-a-string) |
@@ -550,6 +553,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anika253/DSA-Algos.1/tree/master/0238-product-of-array-except-self) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anika253/DSA-Algos.1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3616-make-array-elements-equal-to-zero) |
