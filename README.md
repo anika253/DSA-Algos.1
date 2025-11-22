@@ -82,6 +82,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anika253/DSA-Algos.1/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anika253/DSA-Algos.1/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/anika253/DSA-Algos.1/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -205,6 +206,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
 | [1035-cousins-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/1035-cousins-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/anika253/DSA-Algos.1/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/anika253/DSA-Algos.1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
@@ -230,6 +232,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1036-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
+| [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/anika253/DSA-Algos.1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
@@ -392,6 +395,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
+| [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 ## Binary Search
@@ -405,6 +409,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anika253/DSA-Algos.1/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/anika253/DSA-Algos.1/tree/master/1646-kth-missing-positive-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -483,6 +488,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
@@ -625,6 +631,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
+| [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Database
 |  |
