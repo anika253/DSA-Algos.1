@@ -72,6 +72,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0907-koko-eating-bananas) |
 | [0911-profitable-schemes](https://github.com/anika253/DSA-Algos.1/tree/master/0911-profitable-schemes) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/anika253/DSA-Algos.1/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -148,6 +149,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
 | [0526-beautiful-arrangement](https://github.com/anika253/DSA-Algos.1/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/anika253/DSA-Algos.1/tree/master/0800-letter-case-permutation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/anika253/DSA-Algos.1/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
