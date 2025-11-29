@@ -433,6 +433,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/anika253/DSA-Algos.1/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anika253/DSA-Algos.1/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0076-minimum-window-substring) |
@@ -597,6 +598,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anika253/DSA-Algos.1/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anika253/DSA-Algos.1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
