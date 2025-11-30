@@ -83,6 +83,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anika253/DSA-Algos.1/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/anika253/DSA-Algos.1/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anika253/DSA-Algos.1/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
@@ -332,6 +333,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anika253/DSA-Algos.1/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
+| [1590-make-sum-divisible-by-p](https://github.com/anika253/DSA-Algos.1/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -572,6 +574,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anika253/DSA-Algos.1/tree/master/0238-product-of-array-except-self) |
+| [1590-make-sum-divisible-by-p](https://github.com/anika253/DSA-Algos.1/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anika253/DSA-Algos.1/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
