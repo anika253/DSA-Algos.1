@@ -83,6 +83,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anika253/DSA-Algos.1/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anika253/DSA-Algos.1/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/anika253/DSA-Algos.1/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anika253/DSA-Algos.1/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -300,6 +301,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anika253/DSA-Algos.1/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
@@ -388,6 +390,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anika253/DSA-Algos.1/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anika253/DSA-Algos.1/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
