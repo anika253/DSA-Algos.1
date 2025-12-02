@@ -54,6 +54,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0134-gas-station](https://github.com/anika253/DSA-Algos.1/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anika253/DSA-Algos.1/tree/master/0238-product-of-array-except-self) |
@@ -363,6 +364,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anika253/DSA-Algos.1/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -566,6 +568,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anika253/DSA-Algos.1/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/anika253/DSA-Algos.1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
