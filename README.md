@@ -60,6 +60,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0239-sliding-window-maximum](https://github.com/anika253/DSA-Algos.1/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/anika253/DSA-Algos.1/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/anika253/DSA-Algos.1/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
@@ -285,6 +286,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/anika253/DSA-Algos.1/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
