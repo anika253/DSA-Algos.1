@@ -681,6 +681,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/anika253/DSA-Algos.1/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/anika253/DSA-Algos.1/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/anika253/DSA-Algos.1/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0180-consecutive-numbers) |
