@@ -390,6 +390,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0049-group-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anika253/DSA-Algos.1/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -546,6 +547,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0023-merge-k-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
@@ -559,6 +561,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -572,6 +575,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0075-sort-colors](https://github.com/anika253/DSA-Algos.1/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anika253/DSA-Algos.1/tree/master/0283-move-zeroes) |
@@ -715,6 +719,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 ## Number Theory
 |  |
 | ------- |
