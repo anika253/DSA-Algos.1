@@ -59,6 +59,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anika253/DSA-Algos.1/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anika253/DSA-Algos.1/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/anika253/DSA-Algos.1/tree/master/0283-move-zeroes) |
@@ -336,6 +337,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -395,6 +397,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0075-sort-colors](https://github.com/anika253/DSA-Algos.1/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -482,6 +485,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/anika253/DSA-Algos.1/tree/master/2174-next-greater-numerically-balanced-number) |
