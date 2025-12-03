@@ -54,6 +54,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0128-longest-consecutive-sequence](https://github.com/anika253/DSA-Algos.1/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/anika253/DSA-Algos.1/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
@@ -288,6 +289,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0124-binary-tree-maximum-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/anika253/DSA-Algos.1/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
