@@ -4,34 +4,33 @@ public:
         int n= nums.size();
         int cnt = 0;
         int cnd = 0;
-        for( int i = 0 ; i<n ; i++)
+        for( int i = 0 ; i<n; i++)
         {
-            if(cnt==0)
+            if( cnt ==0)
             {
-                cnd  = nums[i];
+                cnd = nums[i];
             }
-          if( nums[i]== cnd)
+            if(nums[i]==cnd)
             {
                 cnt++;
             }
-            else 
-            {
+            else {
                 cnt--;
             }
-
         }
         int x = 0;
-        for( int i = 0 ; i< n ; i++)
+        for( int i =0 ; i<n ; i++)
         {
-            if( nums[i]== cnd)
+            if(nums[i]==cnd)
             {
                 x++;
             }
         }
-        if( x>= n/2)
+        if(x>=n/2)
         {
             return cnd;
         }
-        return -1;
+    
+    return -1;
     }
 };
