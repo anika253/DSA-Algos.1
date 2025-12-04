@@ -621,6 +621,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/anika253/DSA-Algos.1/tree/master/0232-implement-queue-using-stacks) |
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/anika253/DSA-Algos.1/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
@@ -640,6 +641,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anika253/DSA-Algos.1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0232-implement-queue-using-stacks](https://github.com/anika253/DSA-Algos.1/tree/master/0232-implement-queue-using-stacks) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
@@ -658,6 +660,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anika253/DSA-Algos.1/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/anika253/DSA-Algos.1/tree/master/0239-sliding-window-maximum) |
 | [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
 ## Simulation
