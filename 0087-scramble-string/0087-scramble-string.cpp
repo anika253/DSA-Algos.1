@@ -50,7 +50,7 @@ public:
         return mp[key] = result;
     }
     bool isScramble(string &s1, string &s2) {
-        mp.clear();
+       
         return solve(s1, s2);
     }
 };
