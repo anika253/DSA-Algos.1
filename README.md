@@ -370,6 +370,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anika253/DSA-Algos.1/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
@@ -457,6 +458,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0005-longest-palindromic-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anika253/DSA-Algos.1/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/anika253/DSA-Algos.1/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anika253/DSA-Algos.1/tree/master/0072-edit-distance) |
@@ -661,6 +663,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0043-multiply-strings) |
 | [1642-water-bottles](https://github.com/anika253/DSA-Algos.1/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anika253/DSA-Algos.1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/anika253/DSA-Algos.1/tree/master/2169-simple-bank-system) |
