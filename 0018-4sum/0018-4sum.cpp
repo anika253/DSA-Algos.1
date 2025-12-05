@@ -14,7 +14,7 @@ public:
                 int right = n-1;
                 while(left <right)
                 {
-                    long long sum = nums[i]+nums[j]+nums[left]+nums[right];
+                    long long sum = (long long)nums[i]+nums[j]+nums[left]+nums[right];
                     if( sum >target)
                     {
                         right--;
