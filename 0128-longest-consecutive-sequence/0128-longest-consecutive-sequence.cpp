@@ -9,26 +9,21 @@ public:
             st.insert(it);
         }
         
-     for( auto it: st)
-     {
-      if(st.find(it-1)== st.end())
+    for( auto it: st)
+    {
+        if(st.find(it-1)==st.end())
         {
-            int x = it;
-            int cnt = 1;
-            while(st.find(x+1)!= st.end())
-            {
-                cnt++;
-                x=x+1;
-            }
+          int x = it;
+          int cnt= 1;
+          while(st.find(x+1)!= st.end())
+          {
+            cnt++;
+            x=x+1;
 
+          }
           lng = max(lng , cnt);
-
         }
-     }
-
-
-
+    }
 return lng;
-
     }
 };
