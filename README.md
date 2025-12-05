@@ -81,6 +81,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0907-koko-eating-bananas) |
 | [0911-profitable-schemes](https://github.com/anika253/DSA-Algos.1/tree/master/0911-profitable-schemes) |
+| [0930-binary-subarrays-with-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0930-binary-subarrays-with-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/anika253/DSA-Algos.1/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -346,6 +347,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0930-binary-subarrays-with-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0930-binary-subarrays-with-sum) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anika253/DSA-Algos.1/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -611,11 +613,13 @@ This repository is a personal collection of important Data Structures and Algori
 | [0076-minimum-window-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/anika253/DSA-Algos.1/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0930-binary-subarrays-with-sum) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anika253/DSA-Algos.1/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anika253/DSA-Algos.1/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0930-binary-subarrays-with-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/anika253/DSA-Algos.1/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
