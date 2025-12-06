@@ -15,15 +15,17 @@ int solve(TreeNode*root , int &diam)
 {
     if(root==NULL)return 0;
     int l = solve(root->left, diam);
-    int r = solve( root->right , diam);
-    diam = max(diam, l+r);
-    return max(l, r)+1;
-    
+    int r = solve(root->right , diam);
+    diam = max( diam , l+r);
+    return max(l , r)+1;
 }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(!root) return 0;
+        if(root==NULL)
+        {
+            return 0;
+        }
         int diam = 0;
-        solve(root, diam);
+        solve( root, diam);
         return diam;
 
     }
