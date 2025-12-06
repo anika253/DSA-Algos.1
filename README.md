@@ -58,6 +58,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0128-longest-consecutive-sequence](https://github.com/anika253/DSA-Algos.1/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/anika253/DSA-Algos.1/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
@@ -297,6 +298,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0124-binary-tree-maximum-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/anika253/DSA-Algos.1/tree/master/0312-burst-balloons) |
@@ -340,6 +342,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0127-word-ladder](https://github.com/anika253/DSA-Algos.1/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/anika253/DSA-Algos.1/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/anika253/DSA-Algos.1/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
@@ -478,6 +481,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0127-word-ladder](https://github.com/anika253/DSA-Algos.1/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/anika253/DSA-Algos.1/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/anika253/DSA-Algos.1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
@@ -557,6 +561,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 ## Binary Search Tree
 |  |
@@ -763,4 +768,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anika253/DSA-Algos.1/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
