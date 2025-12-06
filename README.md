@@ -190,6 +190,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0124-binary-tree-maximum-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anika253/DSA-Algos.1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
@@ -218,6 +219,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anika253/DSA-Algos.1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
@@ -278,6 +280,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0124-binary-tree-maximum-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anika253/DSA-Algos.1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anika253/DSA-Algos.1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0437-path-sum-iii) |
@@ -583,6 +586,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anika253/DSA-Algos.1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0669-trim-a-binary-search-tree) |
 ## Divide and Conquer
