@@ -75,6 +75,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anika253/DSA-Algos.1/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/anika253/DSA-Algos.1/tree/master/0526-beautiful-arrangement) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -306,6 +307,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0337-house-robber-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/anika253/DSA-Algos.1/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/anika253/DSA-Algos.1/tree/master/0526-beautiful-arrangement) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -412,6 +414,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anika253/DSA-Algos.1/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -529,6 +532,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/anika253/DSA-Algos.1/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
 | [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
