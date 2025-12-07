@@ -63,6 +63,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0152-maximum-product-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/anika253/DSA-Algos.1/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/anika253/DSA-Algos.1/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0229-majority-element-ii) |
@@ -315,6 +316,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0132-palindrome-partitioning-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/anika253/DSA-Algos.1/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/anika253/DSA-Algos.1/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
