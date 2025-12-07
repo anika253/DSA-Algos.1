@@ -2,34 +2,31 @@ class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
         int n= coins.size();
-        vector<vector<int>>dp( n , vector<int>(amount+1, 1e9));
-            for(int i =  0;i<=amount ; i++)
-            {
-                if(i%coins[0]==0)
-                {
-                    dp[0][i]= i/coins[0];
-                }
-            }
-            for(int i = 0; i<n ; i++)
-          {
-            dp[i][0]=0;
-          }
-           for(int ind=1 ; ind<n ; ind++)
+        vector<vector<int>>dp(n, vector<int>(amount+1, 1e9));
+        for(int i = 0 ; i<=amount ; i++)
+        {   if(i%coins[0]==0){
+            dp[0][i]= i/coins[0];
+        }
+        }
+        for(int i = 0 ; i<n ; i++)
         {
-            for(int tar= 1; tar<=amount; tar++)
+            dp[i][0]=0;
+        }
+        for(int i =1 ; i<n ; i++)
+        {
+            for(int j=1 ; j<= amount ; j++ )
             {
-                int nt = dp[ind-1][tar];
-                int t = 1e9; ;
-                if(coins[ind]<=tar)
+                int np = dp[i-1][j];
+                int p = 1e9;
+                if(coins[i]<=j)
                 {
-                    t = 1+dp[ind][tar-coins[ind]];
+                    p = 1+dp[i][j-coins[i]];
                 }
-                dp[ind][tar]= min(t, nt);
+            
+            dp[i][j]= min(p , np);
             }
         }
-        if( dp[n-1][amount]==1e9)return -1;
-      else  return dp[n-1][amount];
-
-
+        if(dp[n-1][amount]==1e9)return -1;
+        return dp[n-1][amount];
     }
 };
