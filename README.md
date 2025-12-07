@@ -51,6 +51,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0079-word-search](https://github.com/anika253/DSA-Algos.1/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anika253/DSA-Algos.1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/anika253/DSA-Algos.1/tree/master/0120-triangle) |
@@ -428,6 +429,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0049-group-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anika253/DSA-Algos.1/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0229-majority-element-ii) |
@@ -627,6 +629,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anika253/DSA-Algos.1/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
