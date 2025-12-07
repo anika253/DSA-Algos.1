@@ -401,6 +401,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anika253/DSA-Algos.1/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
@@ -578,6 +579,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anika253/DSA-Algos.1/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/anika253/DSA-Algos.1/tree/master/0044-wildcard-matching) |
@@ -608,6 +610,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anika253/DSA-Algos.1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0023-merge-k-sorted-lists) |
