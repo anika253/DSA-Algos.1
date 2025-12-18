@@ -24,6 +24,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anika253/DSA-Algos.1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anika253/DSA-Algos.1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anika253/DSA-Algos.1/tree/master/0015-3sum) |
@@ -354,6 +355,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
