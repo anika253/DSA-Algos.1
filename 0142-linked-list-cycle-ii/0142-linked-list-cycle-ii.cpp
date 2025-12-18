@@ -12,7 +12,7 @@ ListNode*helper(ListNode*head)
 { if( head==NULL || head->next ==NULL)return NULL;
 ListNode*slow = head;
 ListNode*fast = head;
-    while(fast!= NULL && fast->next!= NULL)
+    while( fast->next!= NULL)
     {  fast = fast->next->next;
     
         slow = slow->next;
@@ -26,7 +26,7 @@ return NULL;
 }
     ListNode *detectCycle(ListNode *head) {
         if( head==NULL || head->next ==NULL)return NULL;
-        
+
         ListNode*temp = helper(head);
         if(temp==NULL)return NULL;
         ListNode*tmp2 = head;
