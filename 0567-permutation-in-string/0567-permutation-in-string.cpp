@@ -4,18 +4,16 @@ public:
         sort(s1.begin(), s1.end());
         int n = s1.size();
         int m = s2.size();
-        if(n>m) return false;
         for( int i = 0 ; i<= m-n ; i++)
         {
-           string subs = s2.substr( i , n);
-           sort(subs.begin(), subs.end());
-           if( subs == s1)
-           {
-            return true;
-           }
+            string subs = s2.substr( i , n);
+            sort(subs.begin(), subs.end());
+            if(subs==s1)
+            {
+                return true;
+            }
         }
         return false;
 
     }
 };
-//using sw instead of factorials bcx of n! extra tc
