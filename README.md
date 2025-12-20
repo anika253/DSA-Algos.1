@@ -110,6 +110,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1646-kth-missing-positive-number](https://github.com/anika253/DSA-Algos.1/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/anika253/DSA-Algos.1/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anika253/DSA-Algos.1/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -567,6 +568,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/anika253/DSA-Algos.1/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
