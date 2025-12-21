@@ -330,6 +330,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/anika253/DSA-Algos.1/tree/master/0526-beautiful-arrangement) |
+| [0647-palindromic-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika253/DSA-Algos.1/tree/master/0907-sum-of-subarray-minimums) |
@@ -516,6 +517,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/anika253/DSA-Algos.1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/0647-palindromic-substrings) |
 | [0800-letter-case-permutation](https://github.com/anika253/DSA-Algos.1/tree/master/0800-letter-case-permutation) |
 | [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1143-longest-common-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/1143-longest-common-subsequence) |
@@ -650,6 +652,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0283-move-zeroes](https://github.com/anika253/DSA-Algos.1/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/anika253/DSA-Algos.1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/0647-palindromic-substrings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
