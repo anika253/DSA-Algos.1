@@ -3,34 +3,33 @@ public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         int n = wordList.size();
         unordered_set<string>st(wordList.begin(), wordList.end());
-        queue<pair<string, int>>q;
+        queue<pair<string , int>>q;
         q.push({beginWord, 1});
         st.erase(beginWord);
         while(!q.empty())
         {
             auto topo = q.front();
             q.pop();
-            string t = topo.first;
-            int u = topo.second;
-            if( t==endWord)
+            string s = topo.first;
+            int steps = topo.second;
+            if(s==endWord)return steps;
+            for(int i = 0; i<s.size(); i++)
             {
-                return u;
-            }
-            for( int i = 0 ; i<t.size(); i++)
-            {
-                char original = t[i];
-                for( char ch='a'; ch<='z' ;ch++)
+                char temp= s[i];
+                for(char ch = 'a' ; ch<='z'; ch++)
                 {
-                   t[i]= ch;
-                   if(st.find(t)!= st.end())
-                   {
-                    st.erase(t);
-                    q.push({t,u+1});
-                   }
+                    s[i]= ch;
+                    if(st.find(s)!= st.end())
+                    {
+                      q.push({s, steps+1});
+                      st.erase(s);
+                    }
+
                 }
-                t[i]= original;
+                s[i]= temp;
             }
         }
         return 0;
+
     }
 };
