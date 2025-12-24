@@ -359,6 +359,7 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0001-two-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/anika253/DSA-Algos.1/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anika253/DSA-Algos.1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anika253/DSA-Algos.1/tree/master/0037-sudoku-solver) |
@@ -410,6 +411,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/anika253/DSA-Algos.1/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anika253/DSA-Algos.1/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
@@ -502,6 +504,7 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/anika253/DSA-Algos.1/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anika253/DSA-Algos.1/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0043-multiply-strings) |
