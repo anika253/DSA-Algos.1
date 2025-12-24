@@ -21,7 +21,10 @@ public:
         }           
         for(int i = 0 ; i<= sum ; i++)
         {
+           if(nums[i]<=sum )
+           {
             dp[0][nums[0]]=1;
+           }
         }
         for( int i=1 ; i<n; i++)
         {
