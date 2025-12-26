@@ -537,6 +537,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anika253/DSA-Algos.1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anika253/DSA-Algos.1/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/anika253/DSA-Algos.1/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anika253/DSA-Algos.1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
@@ -679,6 +680,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0930-binary-subarrays-with-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0930-binary-subarrays-with-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/anika253/DSA-Algos.1/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/anika253/DSA-Algos.1/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anika253/DSA-Algos.1/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anika253/DSA-Algos.1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
