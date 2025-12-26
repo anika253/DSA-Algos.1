@@ -110,6 +110,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/anika253/DSA-Algos.1/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/anika253/DSA-Algos.1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anika253/DSA-Algos.1/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/anika253/DSA-Algos.1/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
