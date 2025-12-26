@@ -63,6 +63,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/anika253/DSA-Algos.1/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anika253/DSA-Algos.1/tree/master/0198-house-robber) |
@@ -486,6 +487,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0033-search-in-rotated-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/anika253/DSA-Algos.1/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
