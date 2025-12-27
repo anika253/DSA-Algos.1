@@ -604,6 +604,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0021-merge-two-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anika253/DSA-Algos.1/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/anika253/DSA-Algos.1/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/anika253/DSA-Algos.1/tree/master/0143-reorder-list) |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -640,6 +641,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0138-copy-list-with-random-pointer](https://github.com/anika253/DSA-Algos.1/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/anika253/DSA-Algos.1/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -657,6 +659,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0088-merge-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/anika253/DSA-Algos.1/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
@@ -715,6 +718,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anika253/DSA-Algos.1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/anika253/DSA-Algos.1/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/anika253/DSA-Algos.1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anika253/DSA-Algos.1/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/anika253/DSA-Algos.1/tree/master/0735-asteroid-collision) |
