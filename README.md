@@ -637,6 +637,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0021-merge-two-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/anika253/DSA-Algos.1/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anika253/DSA-Algos.1/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anika253/DSA-Algos.1/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/anika253/DSA-Algos.1/tree/master/0138-copy-list-with-random-pointer) |
@@ -657,6 +658,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anika253/DSA-Algos.1/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anika253/DSA-Algos.1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0142-linked-list-cycle-ii) |
