@@ -1,42 +1,51 @@
 class Solution {
 public:
     int mostBooked(int n, vector<vector<int>>& meetings) {
-        vector<long long> roomAvailabilityTime(n, 0);
-        vector<int> meetingCount(n, 0);
-        sort(meetings.begin(), meetings.end());
+        sort(meetings.begin(), meetings.end(),
+             [](const vector<int>& a, const vector<int>& b) {
+                 return a[0] < b[0];
+             });
 
-        for (auto& meeting: meetings) {
-            int start = meeting[0], end = meeting[1];
-            long long minRoomAvailabilityTime = LLONG_MAX;
-            int minAvailableTimeRoom = 0;
-            bool foundUnusedRoom = false;
+        int m = meetings.size();
+        vector<long long> lastavailable(n);
+        vector<int> roomsused(n);
 
-            for (int i = 0; i < n; i++) {
-                if (roomAvailabilityTime[i] <= start) {
-                    foundUnusedRoom = true;
-                    meetingCount[i]++;
-                    roomAvailabilityTime[i] = end;
+        for (auto& meet : meetings) {
+            int start = meet[0], end = meet[1];
+            bool found = false;
+            long long earlyEndRoomTime = LLONG_MAX;
+            int earlyEndRoom = 0;
+
+            // find the first available meeting room
+            for (int room = 0; room < n; room++) {
+                if (lastavailable[room] <= start) {
+                    found = true;
+                    lastavailable[room] = end;
+                    roomsused[room]++;
                     break;
                 }
 
-                if (minRoomAvailabilityTime > roomAvailabilityTime[i]) {
-                    minRoomAvailabilityTime = roomAvailabilityTime[i];
-                    minAvailableTimeRoom = i;
+                if (lastavailable[room] < earlyEndRoomTime) {
+                    earlyEndRoom = room;
+                    earlyEndRoomTime = lastavailable[room];
                 }
             }
 
-            if (!foundUnusedRoom) {
-                roomAvailabilityTime[minAvailableTimeRoom] += end - start;
-                meetingCount[minAvailableTimeRoom]++;
+            if (!found) {
+                lastavailable[earlyEndRoom] += (end - start);
+                roomsused[earlyEndRoom]++;
             }
         }
-        int maxMeetingCount = 0, maxMeetingCountRoom = 0;
-        for (int i = 0; i < n; i++) {
-            if (meetingCount[i] > maxMeetingCount) {
-                maxMeetingCount = meetingCount[i];
-                maxMeetingCountRoom = i;
+
+        int resultRoom = -1;
+        int maxUse = 0;
+        for (int room = 0; room < n; room++) {
+            if (roomsused[room] > maxUse) {
+                maxUse = roomsused[room];
+                resultRoom = room;
             }
         }
-        return maxMeetingCountRoom;
+
+        return resultRoom;
     }
 };
