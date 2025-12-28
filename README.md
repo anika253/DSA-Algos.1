@@ -98,6 +98,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anika253/DSA-Algos.1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
@@ -481,6 +482,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/anika253/DSA-Algos.1/tree/master/1331-path-with-maximum-gold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anika253/DSA-Algos.1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
@@ -497,6 +499,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anika253/DSA-Algos.1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anika253/DSA-Algos.1/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
