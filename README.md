@@ -532,6 +532,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0443-string-compression](https://github.com/anika253/DSA-Algos.1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/anika253/DSA-Algos.1/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/anika253/DSA-Algos.1/tree/master/0800-letter-case-permutation) |
 | [0859-buddy-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0859-buddy-strings) |
 | [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
@@ -847,4 +848,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anika253/DSA-Algos.1/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
