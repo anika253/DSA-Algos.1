@@ -37,7 +37,7 @@ public:
     }
     ListNode* sortList(ListNode* head) {
         if(head==NULL || head->next==NULL) return head;
-        ListNode* temp=NULL;
+        ListNode* temp=head;
         ListNode*slow=head;
         ListNode* fast=head;
         while(fast!=NULL && fast->next!=NULL){
