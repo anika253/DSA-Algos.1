@@ -85,6 +85,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0494-target-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/anika253/DSA-Algos.1/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/anika253/DSA-Algos.1/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/anika253/DSA-Algos.1/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anika253/DSA-Algos.1/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/anika253/DSA-Algos.1/tree/master/0735-asteroid-collision) |
@@ -718,6 +719,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0076-minimum-window-substring](https://github.com/anika253/DSA-Algos.1/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/anika253/DSA-Algos.1/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/anika253/DSA-Algos.1/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anika253/DSA-Algos.1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anika253/DSA-Algos.1/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
