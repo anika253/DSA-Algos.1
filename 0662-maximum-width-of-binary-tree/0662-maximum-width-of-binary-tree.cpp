@@ -20,9 +20,9 @@ public:
         {
             auto topo = q.front();
             
-            int l = q.front().second;
+            long long l = q.front().second;
           
-            int r = q.back().second;
+           long long  r = q.back().second;
             maxw = max(maxw, r-l+1);
             int n = q.size();
             while(n--){
