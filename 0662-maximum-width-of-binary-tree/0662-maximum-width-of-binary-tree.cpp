@@ -26,7 +26,7 @@ public:
             maxw = max(maxw, r-l+1);
             int n = q.size();
             while(n--){
-              int ind =  q.front().second;
+              long long ind =  q.front().second;
               TreeNode*curr = q.front().first;
        q.pop();
                    if(curr->left)
