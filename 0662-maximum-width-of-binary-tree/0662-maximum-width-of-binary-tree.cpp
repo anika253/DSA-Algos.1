@@ -15,7 +15,7 @@ public:
         if(root==NULL)return 0;
         queue<pair<TreeNode*, int>>q;
         q.push({root, 0});
-        int maxw = 0;
+        long long maxw = 0;
         while(!q.empty())
         {
             auto topo = q.front();
