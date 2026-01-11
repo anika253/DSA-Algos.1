@@ -1,16 +1,17 @@
 # Write your MySQL query statement below
-WITH cte as 
-(
-    select e.name as Employee , e.salary ,d.name as Department,
-    MAX(e.salary) OVER(partition by d.id)
-    as max_salary from Employee e left join 
-    Department d
-    on e.departmentID=d.id
-    
-
-    
+select d.name as Department  , e.name as Employee , e.salary as salary 
+from (
+    select * , DENSE_RANK() OVER(
+        partition by departmentId
+        order by salary DESC
+    )
+    as rnk 
+    from Employee 
 )
-Select Department , Employee, Salary 
-from cte
-where
-salary = max_salary
+ e
+right join 
+Department d
+ON e.departmentId = d.id
+where rnk =1
+order by d.name DESC;
+
