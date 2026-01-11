@@ -835,6 +835,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0183-customers-who-never-order](https://github.com/anika253/DSA-Algos.1/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/anika253/DSA-Algos.1/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/anika253/DSA-Algos.1/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/anika253/DSA-Algos.1/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/anika253/DSA-Algos.1/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anika253/DSA-Algos.1/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0627-swap-salary](https://github.com/anika253/DSA-Algos.1/tree/master/0627-swap-salary) |
