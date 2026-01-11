@@ -557,6 +557,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0132-palindrome-partitioning-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
+| [0402-remove-k-digits](https://github.com/anika253/DSA-Algos.1/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/anika253/DSA-Algos.1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/0647-palindromic-substrings) |
@@ -611,6 +612,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/anika253/DSA-Algos.1/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anika253/DSA-Algos.1/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/anika253/DSA-Algos.1/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
 | [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
@@ -767,6 +769,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0143-reorder-list](https://github.com/anika253/DSA-Algos.1/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/anika253/DSA-Algos.1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anika253/DSA-Algos.1/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/anika253/DSA-Algos.1/tree/master/0402-remove-k-digits) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/anika253/DSA-Algos.1/tree/master/0735-asteroid-collision) |
@@ -812,6 +815,7 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anika253/DSA-Algos.1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/anika253/DSA-Algos.1/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika253/DSA-Algos.1/tree/master/0907-sum-of-subarray-minimums) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
