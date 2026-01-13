@@ -650,6 +650,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0025-reverse-nodes-in-k-group](https://github.com/anika253/DSA-Algos.1/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/anika253/DSA-Algos.1/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/anika253/DSA-Algos.1/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -691,6 +692,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0143-reorder-list](https://github.com/anika253/DSA-Algos.1/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
