@@ -1,49 +1,49 @@
 class Solution {
 public:
-bool isPalindrome( string &x)
+bool isPalind(string temp ,vector<vector<int>>&dp , int i , int j)
 {
-   if(x.empty()) return true;
-   int i = 0;
-   int j = x.size()-1;
-   while(i<=j)
-   {
-    if(x[i]!= x[j])
-    {
-        return false;
-    }
-    i++;
-    j--;
-   }
-   return true;
+     if( i>= j) return true;
+ if(dp[i][j]!=-1)
+ {
+    return dp[i][j];
+ }
 
-    
-}
-void solve(int n , string s ,vector<vector<string>>&final, vector<string>&ans , int ind)
+if(temp[i]==temp[j])
 {
+    return dp[i][j] = isPalind(temp ,dp, i+1, j-1);
+} 
+return dp[i][j]= false;
+
+}
+
+void solve( string s, vector<string>&ans , vector<vector<string>>&final, int ind , 
+ vector<vector<int>>&dp )
+ {
+    int n = s.size();
     if(ind==n)
     {
         final.push_back(ans);
         return ;
     }
-    for( int i = ind ; i<n ; i++)
+    for(int i= ind ; i<n; i++)
     {
         string temp = s.substr(ind , i-ind+1);
-        if(isPalindrome(temp))
+        if(isPalind(temp,dp,  ind , i))
         {
-            ans.push_back(temp);
-            solve( n , s, final , ans, ind+(i-ind+1));
-           ans.pop_back();
-
+           ans.push_back(temp);
+            solve(s , ans, final , ind+( i-ind+1), dp);
+            ans.pop_back();
         }
-    
     }
-}
+ }
     vector<vector<string>> partition(string s) {
-        int n= s.size();
-        vector<vector<string>>final;
+        int n = s.size();
         vector<string>ans;
+        vector<vector<string>>final;
         int ind = 0;
-        solve( n , s , final ,ans,  ind);
+        vector<vector<int>>dp(n+1, vector<int>(n+1, -1));
+
+        solve(s, ans, final , ind, dp);
         return final;
     }
 };
