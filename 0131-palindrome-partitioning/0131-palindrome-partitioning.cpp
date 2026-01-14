@@ -28,7 +28,7 @@ void solve( string s, vector<string>&ans , vector<vector<string>>&final, int ind
     for(int i= ind ; i<n; i++)
     {
         string temp = s.substr(ind , i-ind+1);
-        if(isPalind(temp,dp,  ind , i))
+        if(isPalind(s,dp,  ind , i))
         {
            ans.push_back(temp);
             solve(s , ans, final , ind+( i-ind+1), dp);
