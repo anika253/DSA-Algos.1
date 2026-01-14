@@ -1,6 +1,6 @@
 class Solution {
 public:
-bool isPalind(string &temp ,vector<vector<int>>&dp , int i , int j)
+bool isPalind(string &s ,vector<vector<int>>&dp , int i , int j)
 {
      if( i>= j) return true;
  if(dp[i][j]!=-1)
@@ -8,9 +8,9 @@ bool isPalind(string &temp ,vector<vector<int>>&dp , int i , int j)
     return dp[i][j];
  }
 
-if(temp[i]==temp[j])
+if(s[i]==s[j])
 {
-    return dp[i][j] = isPalind(temp ,dp, i+1, j-1);
+    return dp[i][j] = isPalind(s ,dp, i+1, j-1);
 } 
 return dp[i][j]= false;
 
