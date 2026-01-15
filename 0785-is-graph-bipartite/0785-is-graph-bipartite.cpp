@@ -17,7 +17,7 @@ public:
             {
                 if(color[it]==-1)
                 {
-                    q.push(i);
+                    q.push(it);
                    color[it]= 1-color[topo];
                 }
                 else if( color[it]== color[topo])
