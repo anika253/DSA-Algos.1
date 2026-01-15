@@ -253,6 +253,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0662-maximum-width-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/anika253/DSA-Algos.1/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anika253/DSA-Algos.1/tree/master/0820-find-eventual-safe-states) |
@@ -280,6 +281,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/anika253/DSA-Algos.1/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anika253/DSA-Algos.1/tree/master/0820-find-eventual-safe-states) |
@@ -787,6 +789,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0133-clone-graph](https://github.com/anika253/DSA-Algos.1/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/anika253/DSA-Algos.1/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anika253/DSA-Algos.1/tree/master/0820-find-eventual-safe-states) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
@@ -829,6 +832,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0128-longest-consecutive-sequence](https://github.com/anika253/DSA-Algos.1/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/anika253/DSA-Algos.1/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
