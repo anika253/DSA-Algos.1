@@ -38,7 +38,7 @@ vector<int>dc ={0,1 , 0, -1};
         {
         int nr = row+dr[i];
         int nc = col+dc[i];
-        if(nr>=0 && nr<m && nc>=0 && nc<m && !vis[nr][nc] && grid[nr][nc]==1)
+        if(nr>=0 && nr<m && nc>=0 && nc<n && !vis[nr][nc] && grid[nr][nc]==1)
         {
             q.push({time+1, {nr, nc}});
             cnt++;
