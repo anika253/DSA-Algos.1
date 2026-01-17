@@ -929,4 +929,12 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/anika253/DSA-Algos.1/tree/master/0796-rotate-string) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
