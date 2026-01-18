@@ -938,6 +938,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
+| [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
