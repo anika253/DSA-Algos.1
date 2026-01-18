@@ -13,7 +13,7 @@ vector<int>dc= {0,1,0,-1};
        while(!pq.empty())
        {
         auto topo = pq.top();
-        int currE = topo.first;
+         currE = topo.first;
         int row =topo.second.first;
         int col = topo.second.second;
         pq.pop();
@@ -22,7 +22,7 @@ vector<int>dc= {0,1,0,-1};
         {
             int nr = row+ dr[i];
             int nc = col+dc[i];
-            if( nr>=0 && nr< m && nc>=0 && nc<m)
+            if( nr>=0 && nr< m && nc>=0 && nc<n)
             {
                 int newEffort = max( currE , heights[nr][nc]- heights[row][col]);
                 if( dist[nr][nc]> newEffort)
@@ -36,7 +36,7 @@ vector<int>dc= {0,1,0,-1};
          
 
        }
-       return 0;
+       return currE;
        
     }
 };
