@@ -24,7 +24,7 @@ vector<int>dc= {0,1,0,-1};
             int nc = col+dc[i];
             if( nr>=0 && nr< m && nc>=0 && nc<n)
             {
-                int newEffort = max( currE , heights[nr][nc]- heights[row][col]);
+                int newEffort = max( currE ,abs( heights[nr][nc]- heights[row][col]));
                 if( dist[nr][nc]> newEffort)
                 {
                     dist[nr][nc] = newEffort;
@@ -36,7 +36,7 @@ vector<int>dc= {0,1,0,-1};
          
 
        }
-       return 0;
+       return currE;
        
     }
 };
