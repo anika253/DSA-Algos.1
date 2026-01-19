@@ -21,7 +21,11 @@ map<int , pair<list<int>::iterator, int>>cache;
     }
     
     void put(int key, int value) {
-        if(cache.find(key)!= cache.end())return ;
+        if(cache.find(key)!= cache.end())
+        {
+            maker(key);
+            cache[key].second = value;
+        }
         else{
             dll.push_front(key);
             cache[key]={dll.begin(), value};
