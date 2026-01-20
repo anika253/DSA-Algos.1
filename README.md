@@ -145,6 +145,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anika253/DSA-Algos.1/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anika253/DSA-Algos.1/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/anika253/DSA-Algos.1/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/anika253/DSA-Algos.1/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anika253/DSA-Algos.1/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anika253/DSA-Algos.1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -199,6 +200,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anika253/DSA-Algos.1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/anika253/DSA-Algos.1/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/anika253/DSA-Algos.1/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Tree
