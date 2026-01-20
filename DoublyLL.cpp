@@ -122,3 +122,144 @@ print(head);
 return 0;
 
 }
+
+
+
+
+
+
+//// THE CODE OF LINKED LIST (SIMPLE)
+#include <bits/stdc++.h>
+using namespace std;
+class Node{
+    public:
+    int val;
+    Node*next;
+    
+    Node( int val)
+    {
+        this->val = val;
+        this->next =NULL;
+    }
+    
+};
+
+void insertAtHead(Node*&head , int data)
+{
+    Node*temp = new Node(data);
+    if(head == NULL) 
+    {
+       head = temp;
+        return ;
+    }
+    temp->next = head;
+    head = temp;
+    
+}
+void insertAtTail(Node*&head  , int data)
+{
+    Node*temp= new Node(data);
+    if( head==NULL)
+    {
+        temp = head;
+        return ;
+    }
+    Node*temp1 = head;
+    while(temp1->next!= NULL)
+    {
+        temp1 = temp1->next;
+    }
+    temp1->next = temp;
+    temp->next = NULL;
+}
+    
+void insertatPos(Node*&head , int pos, int d)
+{
+   
+    if(head==NULL || pos <=1)
+    {
+        insertAtHead(head , d);
+        
+    }
+    Node*temp = head;
+    int cnt = 0;
+    while(temp!= NULL)
+    {
+        temp = temp->next;
+        cnt++;
+        
+    }
+    if(cnt < pos) {cout << "invlid pos";
+    return ;}
+    Node*curr = head;
+    Node*prev = NULL;
+    int cnt1 = 1;
+    while(curr!= NULL && cnt1 < pos)
+    {
+        prev=curr;
+        curr = curr->next;
+        cnt1++;
+        
+    }
+    Node* nn = new Node(d);
+    prev->next= nn;
+    nn->next = curr;
+    
+    
+    
+}
+void deleten(Node*head , int pos)
+{
+    if( head==NULL) return ;
+    Node* temp = head;
+    int cnt = 0;
+    
+    while(temp!= NULL)
+    {
+        temp = temp->next;
+        cnt++;
+    }
+    if( cnt < pos) 
+    {
+        cout << "invalid";
+        return ;
+    }
+    Node*prev = NULL;    
+    Node*curr = head;
+    int cnt1 = 1;
+    while(curr!= NULL &&  cnt1<pos)
+    {
+        prev = curr;
+        curr = curr->next;
+        cnt1++;
+        
+    }
+    if(prev!= NULL && curr!= NULL)
+    {
+        prev->next = curr->next;
+        delete curr;
+        
+    }
+}
+ void printList(Node*head)
+ {
+     Node*temp = head;
+     while( temp !=NULL)
+     {
+         cout << temp-> val  << endl;
+         temp = temp->next;
+     }
+ }
+ 
+
+
+
+int main() {
+Node*head = new Node(1);
+insertAtHead(head,2);
+printList(head);
+return 0;
+
+
+}
+
