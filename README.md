@@ -356,6 +356,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0045-jump-game-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anika253/DSA-Algos.1/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/anika253/DSA-Algos.1/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anika253/DSA-Algos.1/tree/master/0072-edit-distance) |
@@ -475,6 +476,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0013-roman-to-integer](https://github.com/anika253/DSA-Algos.1/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anika253/DSA-Algos.1/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/anika253/DSA-Algos.1/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anika253/DSA-Algos.1/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
@@ -529,6 +531,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anika253/DSA-Algos.1/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Matrix
