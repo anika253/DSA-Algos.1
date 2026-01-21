@@ -137,6 +137,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/anika253/DSA-Algos.1/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anika253/DSA-Algos.1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/anika253/DSA-Algos.1/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
@@ -455,6 +456,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2402-meeting-rooms-iii](https://github.com/anika253/DSA-Algos.1/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/anika253/DSA-Algos.1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anika253/DSA-Algos.1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anika253/DSA-Algos.1/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anika253/DSA-Algos.1/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -775,6 +777,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0643-maximum-average-subarray-i](https://github.com/anika253/DSA-Algos.1/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anika253/DSA-Algos.1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anika253/DSA-Algos.1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anika253/DSA-Algos.1/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
