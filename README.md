@@ -230,6 +230,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0662-maximum-width-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0669-trim-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
 | [1035-cousins-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/1035-cousins-in-binary-tree) |
@@ -271,6 +272,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anika253/DSA-Algos.1/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
 | [1035-cousins-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/1035-cousins-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/anika253/DSA-Algos.1/tree/master/1428-jump-game-iii) |
@@ -304,6 +306,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anika253/DSA-Algos.1/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/0994-rotting-oranges) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/1035-cousins-in-binary-tree) |
@@ -337,6 +340,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0662-maximum-width-of-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0669-trim-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/anika253/DSA-Algos.1/tree/master/1008-binary-tree-cameras) |
 | [1035-cousins-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/1035-cousins-in-binary-tree) |
@@ -433,6 +437,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anika253/DSA-Algos.1/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anika253/DSA-Algos.1/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -506,6 +511,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
 | [0899-orderly-queue](https://github.com/anika253/DSA-Algos.1/tree/master/0899-orderly-queue) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anika253/DSA-Algos.1/tree/master/1547-minimum-cost-to-cut-a-stick) |
