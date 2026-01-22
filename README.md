@@ -93,6 +93,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0735-asteroid-collision](https://github.com/anika253/DSA-Algos.1/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika253/DSA-Algos.1/tree/master/0907-sum-of-subarray-minimums) |
 | [0911-profitable-schemes](https://github.com/anika253/DSA-Algos.1/tree/master/0911-profitable-schemes) |
@@ -571,6 +572,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0300-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0410-split-array-largest-sum) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anika253/DSA-Algos.1/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anika253/DSA-Algos.1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
