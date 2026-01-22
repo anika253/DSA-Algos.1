@@ -1,49 +1,44 @@
 class Solution {
 public:
-bool isPalind(string &s ,vector<vector<int>>&dp , int i , int j)
+bool isPalind(string& s,vector<vector<int>>&dp, int i , int j)
 {
-     if( i>= j) return true;
- if(dp[i][j]!=-1)
- {
-    return dp[i][j];
- }
+    if(i>= j) return true;
+    if(dp[i][j]!=-1) return dp[i][j];
+    if(s[i]==s[j])
+    {
+        return dp[i][j]= isPalind(s, dp , i+1, j-1);
+    }
+    return dp[i][j]= false;
 
-if(s[i]==s[j])
-{
-    return dp[i][j] = isPalind(s ,dp, i+1, j-1);
-} 
-return dp[i][j]= false;
 
 }
-
-void solve( string s, vector<string>&ans , vector<vector<string>>&final, int ind , 
- vector<vector<int>>&dp )
- {
-    int n = s.size();
+  void solve( string &s ,vector<string>&temp, vector<vector<string>>&final, int ind , int n , vector<vector<int>>&dp)
+  {
     if(ind==n)
     {
-        final.push_back(ans);
-        return ;
+        final.push_back(temp);
+        return;
     }
-    for(int i= ind ; i<n; i++)
+    for(int i = ind ;i<n ; i++)
     {
-        string temp = s.substr(ind , i-ind+1);
-        if(isPalind(s,dp,  ind , i))
+        string x = s.substr(ind , i-ind+1);
+        if(isPalind(s, dp ,ind,i))
         {
-           ans.push_back(temp);
-            solve(s , ans, final , ind+( i-ind+1), dp);
-            ans.pop_back();
+            temp.push_back(x);
+            solve(s,temp , final, ind+(i-ind+1) , n, dp);
+            temp.pop_back();
         }
     }
- }
+  }
     vector<vector<string>> partition(string s) {
         int n = s.size();
-        vector<string>ans;
-        vector<vector<string>>final;
         int ind = 0;
+        vector<string>temp;
         vector<vector<int>>dp(n+1, vector<int>(n+1, -1));
 
-        solve(s, ans, final , ind, dp);
-        return final;
+        vector<vector<string>>final;
+       solve( s, temp , final , ind, n, dp );
+       return final;
+
     }
 };
