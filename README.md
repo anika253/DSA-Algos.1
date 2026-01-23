@@ -153,6 +153,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anika253/DSA-Algos.1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anika253/DSA-Algos.1/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika253/DSA-Algos.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anika253/DSA-Algos.1/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -467,6 +468,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anika253/DSA-Algos.1/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika253/DSA-Algos.1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anika253/DSA-Algos.1/tree/master/3623-count-number-of-trapezoids-i) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
@@ -697,6 +699,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/anika253/DSA-Algos.1/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Recursion
 |  |
@@ -751,6 +754,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0206-reverse-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -823,6 +827,7 @@ This repository is a personal collection of important Data Structures and Algori
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/anika253/DSA-Algos.1/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3827-implement-router](https://github.com/anika253/DSA-Algos.1/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/anika253/DSA-Algos.1/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -878,6 +883,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2324-find-triangular-sum-of-an-array](https://github.com/anika253/DSA-Algos.1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/anika253/DSA-Algos.1/tree/master/2402-meeting-rooms-iii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anika253/DSA-Algos.1/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Monotonic Stack
@@ -932,6 +938,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bucket Sort
 |  |
 | ------- |
