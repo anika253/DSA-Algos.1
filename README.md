@@ -145,6 +145,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anika253/DSA-Algos.1/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anika253/DSA-Algos.1/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anika253/DSA-Algos.1/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anika253/DSA-Algos.1/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anika253/DSA-Algos.1/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -405,6 +406,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anika253/DSA-Algos.1/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anika253/DSA-Algos.1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bitmask
@@ -637,6 +639,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2483-minimum-penalty-for-a-shop](https://github.com/anika253/DSA-Algos.1/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anika253/DSA-Algos.1/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anika253/DSA-Algos.1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 ## Counting
@@ -866,6 +869,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0787-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anika253/DSA-Algos.1/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Queue
 |  |
 | ------- |
@@ -972,6 +976,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -987,6 +992,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anika253/DSA-Algos.1/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Data Stream
 |  |
 | ------- |
