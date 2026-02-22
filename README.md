@@ -200,6 +200,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
 | [0526-beautiful-arrangement](https://github.com/anika253/DSA-Algos.1/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/anika253/DSA-Algos.1/tree/master/0800-letter-case-permutation) |
+| [0868-binary-gap](https://github.com/anika253/DSA-Algos.1/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/anika253/DSA-Algos.1/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
