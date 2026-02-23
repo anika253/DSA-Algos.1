@@ -203,6 +203,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0868-binary-gap](https://github.com/anika253/DSA-Algos.1/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/anika253/DSA-Algos.1/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1418-fair-distribution-of-cookies](https://github.com/anika253/DSA-Algos.1/tree/master/1418-fair-distribution-of-cookies) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anika253/DSA-Algos.1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anika253/DSA-Algos.1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -454,6 +455,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anika253/DSA-Algos.1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1447-jump-game-iv](https://github.com/anika253/DSA-Algos.1/tree/master/1447-jump-game-iv) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anika253/DSA-Algos.1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/anika253/DSA-Algos.1/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/anika253/DSA-Algos.1/tree/master/1612-avoid-flood-in-the-city) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -631,6 +633,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anika253/DSA-Algos.1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anika253/DSA-Algos.1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anika253/DSA-Algos.1/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -998,4 +1001,12 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anika253/DSA-Algos.1/tree/master/0295-find-median-from-data-stream) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anika253/DSA-Algos.1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anika253/DSA-Algos.1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
