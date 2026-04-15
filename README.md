@@ -139,6 +139,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2402-meeting-rooms-iii](https://github.com/anika253/DSA-Algos.1/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anika253/DSA-Algos.1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anika253/DSA-Algos.1/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/anika253/DSA-Algos.1/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/anika253/DSA-Algos.1/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
@@ -642,6 +643,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anika253/DSA-Algos.1/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2429-design-a-food-rating-system](https://github.com/anika253/DSA-Algos.1/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anika253/DSA-Algos.1/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anika253/DSA-Algos.1/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anika253/DSA-Algos.1/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
