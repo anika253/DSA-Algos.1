@@ -47,7 +47,7 @@ ListNode*middle(ListNode*head)
         ListNode*temp= reverse(mid->next);
         ListNode*list1 = head;
         ListNode*list2 = temp;
-        while(list1!= NULL)
+        while(list2!= NULL)
         {
             if(list1->val != list2->val)
        {
