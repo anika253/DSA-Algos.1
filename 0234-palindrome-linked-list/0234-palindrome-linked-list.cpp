@@ -44,7 +44,7 @@ ListNode*middle(ListNode*head)
     bool isPalindrome(ListNode* head) {
         if(head==NULL || head->next ==NULL) return true;
         ListNode*mid = middle(head);
-        ListNode*temp= reverse(head);
+        ListNode*temp= reverse(mid->next);
         ListNode*list1 = head;
         ListNode*list2 = temp;
         while(list1!= NULL)
