@@ -32,7 +32,7 @@ ListNode*middle(ListNode*head)
     ListNode*slow= head;
     ListNode*fast = head;
     
-    while(fast->next->next!= NULL && fast->next!= NULL)
+    while(fast->next!= NULL && fast->next->next!= NULL )
     {
        fast = fast->next->next;
        slow = slow->next;
