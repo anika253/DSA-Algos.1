@@ -724,6 +724,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0044-wildcard-matching](https://github.com/anika253/DSA-Algos.1/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/anika253/DSA-Algos.1/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/anika253/DSA-Algos.1/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -767,6 +768,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0146-lru-cache](https://github.com/anika253/DSA-Algos.1/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anika253/DSA-Algos.1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -790,6 +792,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anika253/DSA-Algos.1/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/anika253/DSA-Algos.1/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/anika253/DSA-Algos.1/tree/master/0443-string-compression) |
@@ -858,6 +861,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0144-binary-tree-preorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/anika253/DSA-Algos.1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anika253/DSA-Algos.1/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/anika253/DSA-Algos.1/tree/master/0402-remove-k-digits) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0590-n-ary-tree-postorder-traversal) |
