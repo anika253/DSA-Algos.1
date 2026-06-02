@@ -1,41 +1,36 @@
 class Solution {
 public:
-bool solve(string &s, int i , int j ,vector<vector<int>>&dp, int starti , int maxl )
+bool solve(string &s, vector<vector<int>>&dp, int i , int j , int startI , int maxL)
 {
     if(i>=j)
-   {
-    return 1;
-   }
-   if(dp[i][j]!=-1)
-   {
-    return dp[i][j];
-   }
-   if(s[i]==s[j])
-   {
-    return dp[i][j] = solve(s , i+1, j-1 , dp , starti , maxl);
-   }
-   return 0;
+    {
+        return 1;
+    }
+    if(dp[i][j]!=-1) return dp[i][j];
+    if(s[i]==s[j])
+    {
+        return dp[i][j]= solve( s, dp , i+1, j-1 , startI , maxL);
+    }
+    return 0;
 }
     string longestPalindrome(string s) {
+        int maxL = 1;
+        int startI = -1;
         int n = s.size();
-        int starti = 0;
-        int maxl = 1;
-        vector<vector<int>>dp( n+1, vector<int>(n+1,-1));
-
-        for( int i = 0 ; i< n ; i++)
+        vector<vector<int>>dp(n+1, vector<int>(n+1, -1));
+        for( int i =  0 ; i<n ; i++)
         {
-            for(int j = i ;j<n ; j++)
+            for( int j = i ; j<n ; j++)
             {
-                if(solve( s, i , j , dp  ,starti , maxl))
+                if(solve(s, dp , i , j , startI , maxL))
                 {
-                    if(j-i+1 > maxl){
-                    maxl= max(maxl , j-i+1);
-                    starti = i;
+                    if(j-i+1>maxL){
+                    startI = i;
+                    maxL = j-i+1;
                 }
                 }
             }
         }
-        return s.substr(starti , maxl);
-
+        return s.substr(startI , maxL);
     }
 };
