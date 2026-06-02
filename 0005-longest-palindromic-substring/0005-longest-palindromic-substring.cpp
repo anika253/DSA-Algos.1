@@ -15,7 +15,7 @@ bool solve(string &s, vector<vector<int>>&dp, int i , int j , int startI , int m
 }
     string longestPalindrome(string s) {
         int maxL = 1;
-        int startI = -1;
+        int startI = 0;
         int n = s.size();
         vector<vector<int>>dp(n+1, vector<int>(n+1, -1));
         for( int i =  0 ; i<n ; i++)
