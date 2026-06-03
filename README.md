@@ -635,6 +635,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0800-letter-case-permutation](https://github.com/anika253/DSA-Algos.1/tree/master/0800-letter-case-permutation) |
 | [0859-buddy-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/anika253/DSA-Algos.1/tree/master/0899-orderly-queue) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anika253/DSA-Algos.1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1143-longest-common-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
@@ -694,6 +695,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0402-remove-k-digits](https://github.com/anika253/DSA-Algos.1/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anika253/DSA-Algos.1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1029-two-city-scheduling](https://github.com/anika253/DSA-Algos.1/tree/master/1029-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -876,6 +878,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/anika253/DSA-Algos.1/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika253/DSA-Algos.1/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anika253/DSA-Algos.1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
