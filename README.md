@@ -94,6 +94,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/anika253/DSA-Algos.1/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika253/DSA-Algos.1/tree/master/0907-sum-of-subarray-minimums) |
 | [0911-profitable-schemes](https://github.com/anika253/DSA-Algos.1/tree/master/0911-profitable-schemes) |
@@ -532,6 +533,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
 | [0899-orderly-queue](https://github.com/anika253/DSA-Algos.1/tree/master/0899-orderly-queue) |
+| [0905-sort-array-by-parity](https://github.com/anika253/DSA-Algos.1/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika253/DSA-Algos.1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anika253/DSA-Algos.1/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -801,6 +803,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0567-permutation-in-string](https://github.com/anika253/DSA-Algos.1/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/anika253/DSA-Algos.1/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0922-sort-array-by-parity-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
