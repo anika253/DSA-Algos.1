@@ -215,6 +215,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/anika253/DSA-Algos.1/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/anika253/DSA-Algos.1/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/anika253/DSA-Algos.1/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Tree
 |  |
 | ------- |
