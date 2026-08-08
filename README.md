@@ -416,6 +416,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2848-special-permutations](https://github.com/anika253/DSA-Algos.1/tree/master/2848-special-permutations) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anika253/DSA-Algos.1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anika253/DSA-Algos.1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anika253/DSA-Algos.1/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Bitmask
@@ -664,6 +665,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anika253/DSA-Algos.1/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anika253/DSA-Algos.1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anika253/DSA-Algos.1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3797-design-spreadsheet](https://github.com/anika253/DSA-Algos.1/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
@@ -714,6 +716,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/anika253/DSA-Algos.1/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/anika253/DSA-Algos.1/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/anika253/DSA-Algos.1/tree/master/1975-maximum-matrix-sum) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anika253/DSA-Algos.1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 |  |
@@ -823,6 +826,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0922-sort-array-by-parity-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anika253/DSA-Algos.1/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anika253/DSA-Algos.1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anika253/DSA-Algos.1/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
