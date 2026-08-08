@@ -648,6 +648,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anika253/DSA-Algos.1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/anika253/DSA-Algos.1/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anika253/DSA-Algos.1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anika253/DSA-Algos.1/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anika253/DSA-Algos.1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1019,6 +1020,7 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/anika253/DSA-Algos.1/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/anika253/DSA-Algos.1/tree/master/1392-longest-happy-prefix) |
 ## Union-Find
 |  |
 | ------- |
@@ -1038,9 +1040,19 @@ This repository is a personal collection of important Data Structures and Algori
 ## Rolling Hash
 |  |
 | ------- |
+| [1392-longest-happy-prefix](https://github.com/anika253/DSA-Algos.1/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anika253/DSA-Algos.1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [1392-longest-happy-prefix](https://github.com/anika253/DSA-Algos.1/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anika253/DSA-Algos.1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/anika253/DSA-Algos.1/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/anika253/DSA-Algos.1/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
