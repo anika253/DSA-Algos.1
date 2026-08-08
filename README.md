@@ -617,6 +617,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0013-roman-to-integer](https://github.com/anika253/DSA-Algos.1/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anika253/DSA-Algos.1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anika253/DSA-Algos.1/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/anika253/DSA-Algos.1/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/anika253/DSA-Algos.1/tree/master/0049-group-anagrams) |
@@ -799,6 +800,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0018-4sum](https://github.com/anika253/DSA-Algos.1/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anika253/DSA-Algos.1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anika253/DSA-Algos.1/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/anika253/DSA-Algos.1/tree/master/0075-sort-colors) |
@@ -1019,6 +1021,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/anika253/DSA-Algos.1/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/anika253/DSA-Algos.1/tree/master/1392-longest-happy-prefix) |
 ## Union-Find
@@ -1050,9 +1053,15 @@ This repository is a personal collection of important Data Structures and Algori
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/anika253/DSA-Algos.1/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/anika253/DSA-Algos.1/tree/master/1392-longest-happy-prefix) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
