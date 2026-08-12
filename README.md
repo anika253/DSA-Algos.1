@@ -1041,6 +1041,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anika253/DSA-Algos.1/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1073,4 +1074,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anika253/DSA-Algos.1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
