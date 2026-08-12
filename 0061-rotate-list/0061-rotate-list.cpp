@@ -8,40 +8,39 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+ ListNode*help(ListNode*head , int x)
+ {
+    if(head==NULL)return head;
+    ListNode*n = head;
+     int c = 0;
+    while(n!= NULL && c != x-1)
+    {
+        n= n->next;
+        c++;
+    }
+    return n;
+
+ }
 class Solution {
 public:
-ListNode*findNthNode(ListNode*temp, int x)
-{
- 
-    int cnt = x;
-    while(temp!= NULL && cnt-1>0)
-    {
-          temp = temp->next;
-          cnt--;
-        
-    }
-    return temp;
-}
-
-
-
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head==NULL || head->next ==NULL || k==0) return head;
+        if(head==NULL || head->next ==NULL || k==0)return head;
+        int len = 1;
         ListNode*temp = head;
-        int len= 1;
-        while(temp->next!=NULL)
+        while(temp->next!= NULL)
         {
-            temp= temp->next;
-           len++;
+            temp = temp->next;
+            len++;
         }
         if(k%len==0) return head;
-        k = k %len ;
-          temp->next = head;
-          ListNode* newtail = findNthNode(head, len-k);
-          head = newtail->next;
-          newtail->next = NULL;
-          return head;
+        k = k%len;
+        temp->next = head;
+        ListNode*newN = help(head , len-k);
+        ListNode*nn = newN->next;
+        head = nn;
+        newN->next = NULL;
+        return head;
 
-        
+
     }
 };
