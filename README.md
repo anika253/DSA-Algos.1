@@ -1078,4 +1078,12 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anika253/DSA-Algos.1/tree/master/0207-course-schedule) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anika253/DSA-Algos.1/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
