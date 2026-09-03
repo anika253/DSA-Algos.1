@@ -11,21 +11,22 @@
  */
 class Solution {
 public:
-bool helper(TreeNode* root,long long mini , long long maxi)
+bool validate(TreeNode*root , long long min , long long max)
 {
-    if(root==NULL) return true;
-    if( root->val >mini && root->val<maxi)
+    if(root==NULL)return true;
+    if(root->val > min && root->val <max)
     {
-        bool l = helper(root->left,mini, root->val);
-        bool r = helper(root->right , root->val ,maxi);
-        return l&&r;
+        bool l = validate(root->left, min , root->val);
+   bool r = validate(root-> right , root->val, max);
+   return l&&r;
+
     }
     return false;
 
-
 }
     bool isValidBST(TreeNode* root) {
-     if(root==NULL) return true;
-     return helper(root,LONG_MIN ,LONG_MAX);   
+        if(root==NULL)return true;
+        return validate(root,LONG_MIN , LONG_MAX);
+
     }
 };
