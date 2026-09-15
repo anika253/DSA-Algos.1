@@ -1036,6 +1036,7 @@ This repository is a personal collection of important Data Structures and Algori
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/anika253/DSA-Algos.1/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
