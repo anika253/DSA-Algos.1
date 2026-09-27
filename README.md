@@ -101,6 +101,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0922-sort-array-by-parity-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anika253/DSA-Algos.1/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/anika253/DSA-Algos.1/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/anika253/DSA-Algos.1/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/anika253/DSA-Algos.1/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/anika253/DSA-Algos.1/tree/master/1029-two-city-scheduling) |
@@ -646,6 +647,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0859-buddy-strings](https://github.com/anika253/DSA-Algos.1/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/anika253/DSA-Algos.1/tree/master/0899-orderly-queue) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anika253/DSA-Algos.1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0990-satisfiability-of-equality-equations](https://github.com/anika253/DSA-Algos.1/tree/master/0990-satisfiability-of-equality-equations) |
 | [1026-string-without-aaa-or-bbb](https://github.com/anika253/DSA-Algos.1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1143-longest-common-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/anika253/DSA-Algos.1/tree/master/1160-letter-tile-possibilities) |
@@ -1039,6 +1041,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0200-number-of-islands](https://github.com/anika253/DSA-Algos.1/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/anika253/DSA-Algos.1/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/anika253/DSA-Algos.1/tree/master/0990-satisfiability-of-equality-equations) |
 | [1631-path-with-minimum-effort](https://github.com/anika253/DSA-Algos.1/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -1047,6 +1050,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0684-redundant-connection](https://github.com/anika253/DSA-Algos.1/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/anika253/DSA-Algos.1/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anika253/DSA-Algos.1/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0990-satisfiability-of-equality-equations](https://github.com/anika253/DSA-Algos.1/tree/master/0990-satisfiability-of-equality-equations) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anika253/DSA-Algos.1/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Data Stream
