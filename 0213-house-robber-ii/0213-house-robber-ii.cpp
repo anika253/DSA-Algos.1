@@ -1,36 +1,30 @@
 class Solution {
 public:
-int solve(vector<int>&arr, vector<int>&dp)
-{ int x = dp.size();
-dp[0]= arr[0];
-for( int i= 1; i<x; i++)
-{
-    int p = arr[i];
-    if(i>1)
-    {
-        p+= dp[i-2];
+    int helper(int n, vector<int>& x) {
+        vector<int> dp(n, 0);
+        dp[0] = x[0];
+        for (int i = 1; i < n; i++) {
+            int take = x[i];
+            if (i > 1) take += dp[i - 2];
+            int skip = dp[i - 1];
+            dp[i] = max(take, skip);
+        }
+        return dp[n - 1];
     }
-    int np = dp[i-1];
-    dp[i]= max(p, np);
-}
-return dp[x-1];
-}
+
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int>num1;
-        vector<int>num2;
-        if(nums.size()==0) return 0;
-        if(nums.size()==1) return nums[0];
-        for( int i = 0 ; i<n; i++)
-        {
-          if(i!=n-1)num1.push_back(nums[i]);
-          if(i!=0) num2.push_back(nums[i]);
-        }
-        vector<int>dp(n-1,-1);
-        int a = solve(num1, dp);
-        int b = solve(num2, dp);
-     int final = max(a, b);
-     return final;
+        if (n == 0) return 0;
+        if (n == 1) return nums[0];
 
+        vector<int> nums1, nums2;
+        for (int i = 0; i < n; i++) {
+            if (i != n - 1) nums1.push_back(nums[i]); 
+            if (i != 0)     nums2.push_back(nums[i]);  
+        }
+
+        int a = helper(n - 1, nums1);
+        int b = helper(n - 1, nums2);
+        return max(a, b);
     }
 };
