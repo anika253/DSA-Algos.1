@@ -64,6 +64,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0139-word-break](https://github.com/anika253/DSA-Algos.1/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anika253/DSA-Algos.1/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/anika253/DSA-Algos.1/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anika253/DSA-Algos.1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anika253/DSA-Algos.1/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anika253/DSA-Algos.1/tree/master/0198-house-robber) |
@@ -600,6 +601,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anika253/DSA-Algos.1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anika253/DSA-Algos.1/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anika253/DSA-Algos.1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/anika253/DSA-Algos.1/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/anika253/DSA-Algos.1/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/anika253/DSA-Algos.1/tree/master/0410-split-array-largest-sum) |
@@ -827,6 +829,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0143-reorder-list](https://github.com/anika253/DSA-Algos.1/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/anika253/DSA-Algos.1/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/anika253/DSA-Algos.1/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anika253/DSA-Algos.1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anika253/DSA-Algos.1/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anika253/DSA-Algos.1/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anika253/DSA-Algos.1/tree/master/0283-move-zeroes) |
