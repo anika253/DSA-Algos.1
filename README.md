@@ -93,6 +93,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0735-asteroid-collision](https://github.com/anika253/DSA-Algos.1/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/anika253/DSA-Algos.1/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/anika253/DSA-Algos.1/tree/master/0830-largest-triangle-area) |
+| [0853-car-fleet](https://github.com/anika253/DSA-Algos.1/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/anika253/DSA-Algos.1/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/anika253/DSA-Algos.1/tree/master/0907-koko-eating-bananas) |
@@ -545,6 +546,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0295-find-median-from-data-stream](https://github.com/anika253/DSA-Algos.1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anika253/DSA-Algos.1/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0435-non-overlapping-intervals) |
+| [0853-car-fleet](https://github.com/anika253/DSA-Algos.1/tree/master/0853-car-fleet) |
 | [0899-orderly-queue](https://github.com/anika253/DSA-Algos.1/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/anika253/DSA-Algos.1/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anika253/DSA-Algos.1/tree/master/0922-sort-array-by-parity-ii) |
@@ -906,6 +908,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0589-n-ary-tree-preorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anika253/DSA-Algos.1/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/anika253/DSA-Algos.1/tree/master/0735-asteroid-collision) |
+| [0853-car-fleet](https://github.com/anika253/DSA-Algos.1/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika253/DSA-Algos.1/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anika253/DSA-Algos.1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anika253/DSA-Algos.1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -956,6 +959,7 @@ This repository is a personal collection of important Data Structures and Algori
 | [0042-trapping-rain-water](https://github.com/anika253/DSA-Algos.1/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anika253/DSA-Algos.1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/anika253/DSA-Algos.1/tree/master/0402-remove-k-digits) |
+| [0853-car-fleet](https://github.com/anika253/DSA-Algos.1/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika253/DSA-Algos.1/tree/master/0907-sum-of-subarray-minimums) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anika253/DSA-Algos.1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
