@@ -1116,4 +1116,8 @@ This repository is a personal collection of important Data Structures and Algori
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/anika253/DSA-Algos.1/tree/master/0785-is-graph-bipartite) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anika253/DSA-Algos.1/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
